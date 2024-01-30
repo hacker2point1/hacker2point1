@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hacker2point1
+- 👋 Hi, I’m @Suryadeb Manna
 - 👀 I’m interested in OOP programming
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Coading
