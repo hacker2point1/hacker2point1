@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suryadeb Manna
 - 👀 I’m interested in OOP programming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning HTML5 , CSS3, JS
 - 💞️ I’m looking to collaborate on Coading
 - 📫 How to reach me Instagram(suryasrl)
 
