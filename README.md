@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Suryadeb Manna
 - 👀 I’m interested in OOP programming
-- 🌱 I’m currently learning HTML5 , CSS3, JS
+- 🌱 Techstacks :  JAVA, HTML5 , CSS3, JS, React, Next
 - 💞️ I’m looking to collaborate on Coading
-- 📫 How to reach me Instagram(suryasrl)
+- 📫 How to reach me Instagram(surya_deb_manna)
 
 <!---
 hacker2point1/hacker2point1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
