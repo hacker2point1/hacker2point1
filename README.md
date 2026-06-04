@@ -1,4 +1,7 @@
 ## Hi there 👋
+<p align="center">
+  <img src="./suryadeb_banner_git_2" alt="suryadeb manna Banner" />
+</p>
 
 <!--
 **hacker2point1/hacker2point1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
