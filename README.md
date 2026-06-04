@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="./suryadeb_banner_git_2" alt="suryadeb manna Banner" />
+  <img src="./suryadeb_banner_git_2.jpeg" alt="suryadeb manna Banner" />
 </p>
 
 <!--
