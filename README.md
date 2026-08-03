@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 -->
 
 
-
 <h1 align="center">Hi there, I'm Suryadeb Manna 👋</h1>
 
 <p align="center">
@@ -155,10 +154,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hacker2point1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hacker2point1&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
 ---
 
 ### 🌱 Currently
@@ -169,9 +164,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I enjoy turning messy ideas into clean, working full stack apps
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-quotes-in.vercel.app/api?theme=tokyonight&animation=true" alt="Dev Quote" />
-</p>
 
 <p align="center"><i>Thanks for stopping by — feel free to explore my repos and connect! 🚀</i></p>
